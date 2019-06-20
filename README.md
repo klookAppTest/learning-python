@@ -23,4 +23,4 @@ $ python3 hello.py
 hello, python!
 ```
 
-推荐教程《本方法学python》，照着上面的例子敲三遍!!!
+推荐教程《笨方法学python（第四版）》，照着上面的例子敲三遍!!!
